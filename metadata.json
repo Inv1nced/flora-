@@ -1,0 +1,6 @@
+{
+  "name": "Флора & Лепесток — Цветочная Мастерская",
+  "description": "Авторские букеты со свежими цветами, премиальное оформление и быстрая бережная доставка по городу.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
