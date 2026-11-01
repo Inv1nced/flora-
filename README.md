@@ -9,7 +9,7 @@
 Требуется Node.js 22.12 или новее.
 
 ```sh
-npm install
+npm ci
 npm run dev
 ```
 
